@@ -8,9 +8,12 @@
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "inquirer": "^8.2.4",
-        "mysql2": "^3.6.5"
-    },
-    "author": "",
-    "license": "ISC"
+        "console-table-printer": "^2.11.2",
+        "express": "^4.18.2",
+        "inquirer": "^8.2.6",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.6.1"
+      },
+    "author": "Cardon Hickman",
+    "license": "MIT"
   }
